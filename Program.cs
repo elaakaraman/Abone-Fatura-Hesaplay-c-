@@ -42,3 +42,4 @@ class Program
         Console.WriteLine("Toplam Fatura: " + toplamFatura + " TL");
     }
 }
+Console.WriteLine("Program çalışıyor!");
